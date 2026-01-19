@@ -1,11 +1,11 @@
 # ![Sankalp Chudmunge Banner](https://github.com/s-chudmunge/s-chudmunge/blob/main/Screenshot%202026-01-19%20161703.png)
 
-# Hi this is Sankalp 👋
+### Hi this is Sankalp 👋
 
 I’m currently working at Physicswallah. I completed my master's at IIT Palakkad with a focus on Computational Physics and I’m interested in applications at the intersection of healthcare, scientific computing, and quantum simulation.
 
 
-## Tech stack
+### Tech stack
 
 Languages & frameworks I use frequently:
 
@@ -25,13 +25,13 @@ Languages & frameworks I use frequently:
 
 ---
 
-## Featured projects
+### Featured projects
 
-### menttor — learning tool
+#### menttor — learning tool
 https://github.com/s-chudmunge/menttor  
 A free and open-source learning tool that helps users generate personalized learning roadmaps and manage learning paths.
 
-### majorana-tfim-vqet — quantum simulator
+#### majorana-tfim-vqet — quantum simulator
 https://github.com/s-chudmunge/majorana-tfim-vqet  
 A simulator for quantum systems that predicts locations of Majorana modes — useful for research into fault-tolerant quantum computing and topological phases.
 
@@ -39,14 +39,14 @@ A simulator for quantum systems that predicts locations of Majorana modes — us
 
 ---
 
-## Blog & writing
+### Blog & writing
 
 I occasionally write about projects and ideas:
 - Fractal Error — https://fractalerror.wordpress.com
 
 ---
 
-## Let's connect
+### Let's connect
 
 - ✉️ Email: csankalp21@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/sankalp-chudmunge/  
