@@ -1,35 +1,65 @@
-![Sankalp Chudmunge Banner](https://github.com/s-chudmunge/s-chudmunge/blob/main/Sankalp%20Chudmunge.png)
-## Hi there , This is Sankalp👋
- I am currently working at Physicswallah, I completed my masters from IIT Palakkad where I specialized in Computational Physics, I am interested in areas at the intersection of healthcare, Machine learning and Physics. I am currently working on MRI systems and image reconstruction.
+# ![Sankalp Chudmunge Banner](https://github.com/s-chudmunge/s-chudmunge/blob/main/Sankalp%20Chudmunge.png)
 
-## Tech Stack
-**Languages:**  
+# Hey there this is Sankalp 👋
+
+I’m a computational physicist and machine learning engineer currently working at Physicswallah. I completed my master's at IIT Palakkad with a focus on Computational Physics and I’m interested in applications at the intersection of healthcare, scientific computing, and quantum simulation.
+
+---
+
+## GitHub overview
+
+<!-- GitHub stats -->
+<p float="left">
+  <img align="left" alt="Sankalp's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=s-chudmunge&show_icons=true&count_private=true&theme=tokyonight" />
+  <img align="left" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-chudmunge&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## Tech stack
+
+Languages & frameworks I use frequently:
+
+- Python
+- FastAPI, Flask
+- TensorFlow, PyTorch
+- OpenCV, scikit-learn
+- Docker, Git
+
+Badges:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-**Frameworks & Libraries:**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-**Tools:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Featured Projects(yet to update this!)
+---
 
-### [menttor learning tool](https://github.com/s-chudmunge/menttor)
-    > A free and Open source Learning Tool in which users can generate their learning roadmaps
+## Featured projects
 
-### [majorana-tfim-vqet](https://github.com/s-chudmunge/majorana-tfim-vqet)
-    > A quantum system simulator that predicts where exotic particles called as majorana modes will exist. These particles will be the basis of future fault tolerant quantum systems
+### menttor — learning tool
+https://github.com/s-chudmunge/menttor  
+A free and open-source learning tool that helps users generate personalized learning roadmaps and manage learning paths.
 
-## 📫 Let's Connect
+### majorana-tfim-vqet — quantum simulator
+https://github.com/s-chudmunge/majorana-tfim-vqet  
+A simulator for quantum systems that predicts locations of Majorana modes — useful for research into fault-tolerant quantum computing and topological phases.
 
--  Email: csankalp21@gmail.com  
--  [LinkedIn](https://www.linkedin.com/in/sankalp-chudmunge/)  
--  Portfolio (Coming Soon)
+(If you want, I can add screenshots or short GIFs for each project — drop the image links and I’ll insert them.)
 
-## Blog 
+---
 
-    My blog where I write about my projects and ideas can be found here, do read if you get some time.
-    - [fractal Error](fractalerror.wordpress.com)
+## Blog & writing
+
+I occasionally write about projects and ideas:
+- Fractal Error — https://fractalerror.wordpress.com
+
+---
+
+## Let's connect
+
+- ✉️ Email: csankalp21@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/sankalp-chudmunge/  
+- Portfolio: Coming soon
