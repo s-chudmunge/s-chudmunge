@@ -33,15 +33,13 @@ A free and open-source learning tool that helps users generate personalized lear
 
 #### majorana-tfim-vqet — quantum simulator
 https://github.com/s-chudmunge/majorana-tfim-vqet  
-A simulator for quantum systems that predicts locations of Majorana modes — useful for research into fault-tolerant quantum computing and topological phases.
-
-(If you want, I can add screenshots or short GIFs for each project — drop the image links and I’ll insert them.)
+A quantum systems simulation that predicts locations of Majorana modes which will the backbone of future fault-tolerant quantum systems.
 
 ---
 
 ### Blog & writing
 
-I occasionally write about projects and ideas:
+I occasionally write about my projects and ideas:
 - Fractal Error — https://fractalerror.wordpress.com
 
 ---
