@@ -1,5 +1,3 @@
-# ![Sankalp Chudmunge Banner](https://github.com/s-chudmunge/s-chudmunge/blob/main/Screenshot%202026-01-19%20161703.png)
-
 ### Hi this is Sankalp 👋
 
 I’m currently working at Physicswallah. I completed my master's at IIT Palakkad with a focus on Computational Physics and I’m interested in applications at the intersection of healthcare, scientific computing, and quantum simulation.
