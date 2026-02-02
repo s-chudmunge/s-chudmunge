@@ -1,19 +1,8 @@
-### Hi this is Sankalp 👋
+Hi, this is Sankalp 👋✨  
 
-I’m currently working at Physicswallah. I completed my master's at IIT Palakkad with a focus on Computational Physics and I’m interested in applications at the intersection of healthcare, scientific computing, and quantum simulation.
+I’m currently working at PhysicsWallah, and I completed my master’s at IIT Palakkad, where I specialized in Computational Physics. My interests sit at the intersection of healthcare applications, scientific computing, simulations and inverse problems.
 
+On the technical side, I primarily work with Python 🐍, using PyTorch 🔥 for model development, scikit-learn 📊 for data analysis, and Git 🌱 for version control. I enjoy building clean, reproducible workflows and translating complex physical ideas into efficient computational solutions.
 
-### Tech stack
-
-Languages & frameworks I use frequently:
-
-- Python
-- PyTorch
-- scikit-learn
-- Git
-
-### Let's connect
-
-- ✉️ Email: csankalp21@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/sankalp-chudmunge/  
-- Portfolio: Coming soon
+I would be happy to connect with you!
+✉️ Email: csankalp21@gmail.com 
