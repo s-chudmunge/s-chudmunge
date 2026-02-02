@@ -6,3 +6,5 @@ On the technical side, I primarily work with Python 🐍, using PyTorch 🔥 for
 
 I would be happy to connect with you!
 ✉️ Email: csankalp21@gmail.com 
+
+The bird you see on the left is a Bar-Tailed Godwit, they are capable of flying thousands of kilometers non-stop in a single flight,very inspiring!
