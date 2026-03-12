@@ -1,6 +1,6 @@
 ### Sankalp Chudmunge
 
-I am a Developer building [Menttor](https://menttor.live) ,an AI-powered learning platform that generates personalized roadmaps for developers and students.
+I am a Developer currently building [Menttor](https://menttor.live) ,an AI-powered learning platform that generates personalized roadmaps for developers and students.
 
 I work across the entire stack: Next.js frontends, FastAPI backends, AI integrations, and cloud infrastructure. Most of my recent work is in production, not just side projects.
 
