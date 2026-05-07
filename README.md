@@ -1,6 +1,6 @@
 ### Sankalp Chudmunge
 
-I am currently building [EulerFold](https://www.eulerfold.com) ,a learning platform that provides personalized learning for developers and students.
+I am currently working at PhysicsWallah and also building [EulerFold](https://www.eulerfold.com) ,a platform that provides personalized learning for developers and students.
 
 **Find me:** [EulerFold](https://www.eulerfold.com) · [blog](https://sankalp-chudmunge.pages.dev) · [LinkedIn](https://linkedin.com/in/sankalp-chudmunge)
 
