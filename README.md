@@ -1,3 +1,3 @@
 ### Sankalp Chudmunge
 
-Hi, I am Physics Graduate with a specialization in Statistical and computational physics.
+Hi, I am Physics Graduate from india with a specialization in Statistical and computational physics.
